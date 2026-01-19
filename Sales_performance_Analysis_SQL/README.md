@@ -1,3 +1,14 @@
+# Sales Performance Analysis Using SQL
+
+## Project Overview
+This project analyzes sales performance data to uncover trends, identify top-performing products and salespeople, and support data-driven business decisions.
+
+The analysis focuses on answering key business questions such as:
+Which product generate the highest revenue?
+Which salespersons perform best?
+How do sales vary over time?
+What insights can improve sales strategy?
+
 ## Tools used 
 SQL (Data cleaning, aggregation, joins, subqueries, CTEs)
 Microsoft SQL Server
