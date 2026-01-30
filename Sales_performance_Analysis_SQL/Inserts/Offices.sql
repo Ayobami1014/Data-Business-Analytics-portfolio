@@ -1,7 +1,5 @@
 --Insert sample data for Sales.Offices
 
-
-
 INSERT INTO Sales.Offices (Office_Id, City, Region, Mgr_Id, Target, Amount)
 VALUES 
 (22, 'Denver', 'Western', 108, 300000.00, 186042.00),
