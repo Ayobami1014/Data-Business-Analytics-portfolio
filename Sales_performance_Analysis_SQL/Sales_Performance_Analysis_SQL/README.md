@@ -37,7 +37,7 @@ Analyzed monthly sales trends
 Hihglighted underperforming product categories
 
 ## Business Value
-The insights ffrom this analysis help management:
+The insights from this analysis help management:
 Optimize product focus
 improve salesforce performance
 identify growth opportunities
