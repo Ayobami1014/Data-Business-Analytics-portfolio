@@ -12,7 +12,7 @@ What insights can improve sales strategy?
 ## Tools used 
 SQL (Data cleaning, aggregation, joins, subqueries, CTEs)
 Microsoft SQL Server
-Excel 
+
 
 ## Dataset Description
 The dataset contains transactional sales data including:
